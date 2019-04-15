@@ -66,5 +66,5 @@ class Student
       WHERE name = ?
       LIMIT 1
     SQL
-  emd
+  end
 end
